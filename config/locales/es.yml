@@ -1,0 +1,10 @@
+---
+es:
+  hello: Hola
+  users:
+    first_name: Nombre
+    form:
+      about_me: Sobre mi
+      address: Direccion
+      last_name: Apellido
+      phone: Telefono
